@@ -1,6 +1,8 @@
 # UXGraz Website Project
 
-This is the UXGraz website development repository which currently uses the following:
+This is the UXGraz website project development repository.
+
+Following are links to help you navigate to existing content:
 
 Website Wiki for project documentation such as "Goals and Specifications": https://github.com/UXGraz/website-development/wiki
 
