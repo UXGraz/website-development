@@ -8,4 +8,4 @@ Website Wiki for project documentation such as "Goals and Specifications": https
 
 Action Items KanBan Page: https://github.com/UXGraz/website-development/projects/1
 
-Top Level Repository Page: https://github.com/UXGraz/website-development
+Top Level Repository Page (the folder this page is in): https://github.com/UXGraz/website-development
